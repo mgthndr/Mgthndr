@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**mgthndr/Mgthndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Test Titulo
 
-Here are some ideas to get you started:
+Descripcion
+* wowoeoeo
+* test-d
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+dasasas
+
+estadisticas
+-
+
+![mgthndr's Stats](https://github-readme-stats.vercel.app/api?username=mgthndr&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![mgthndr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mgthndr&theme=vue-dark&hide_border=true)
