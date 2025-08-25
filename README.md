@@ -4,9 +4,11 @@
 
 Descripcion
 * wowoeoeo
-* test-d
+* cursiva <i> dsfdfassdafdsadsadsadsa </i>
 
 dasasas
+
+<a href="https://github.com/mgthndr/Mgthndr/stargazers"><img src="https://img.shields.io/github/stars/mgthndr/Mgthndr" alt="Stars Badge"/></a>
 
 imagen test
 
