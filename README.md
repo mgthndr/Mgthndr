@@ -9,7 +9,6 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/mgthndr/Mgthndr?color=blue&style=flat-square">
   <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/mgthndr/Mgthndr?color=blue&style=flat-square">
   <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/mgthndr/Mgthndr?color=blue&style=flat-square">
-<a></a>
 </p>
 </div>
 
