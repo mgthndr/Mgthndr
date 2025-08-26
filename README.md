@@ -1,5 +1,5 @@
 <div align= "center" >
-  <h1 align = "center" > Hola test ABC234567 </h1>
+  <h1 align = "center" >Welcome to my profile (under construction)</h1>
   <p align="center">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mgthndr/Mgthndr?style=flat-square">
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/mgthndr/Mgthndr?style=flat-square">
@@ -14,13 +14,15 @@
 </div>
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
-> 
-Descripcion
+> Any questions or errors about my repositories [Send Email](https://mail.google.com/mail/u/1/#inbox?compose=CllgCJlHDxcZKFRRgmtTpvCKFfWQxdwtRBvHZsnGrfFTBglsRgrTfnMXcHvZSvTJvSRGzKdDbVV).
+>
+
+## Descripcion
 * wowoeoeo
 * cursiva <i> dsfdfassdafdsadsadsadsa </i>
 
 > asdfgfsa
+
 
 
 dasasas
