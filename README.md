@@ -12,6 +12,11 @@
 </p>
 </div>
 
+<div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/mgthndr"/>  
+    </div>
+
 
 > [!NOTE]
 > Any questions or errors about my repositories [Send Email](https://mail.google.com/mail/u/1/#inbox?compose=CllgCJlHDxcZKFRRgmtTpvCKFfWQxdwtRBvHZsnGrfFTBglsRgrTfnMXcHvZSvTJvSRGzKdDbVV).
