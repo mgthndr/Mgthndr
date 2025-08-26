@@ -11,17 +11,14 @@
   <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/mgthndr/Mgthndr?color=blue&style=flat-square">
 <a></a>
 </p>
-<i> inf</i>
-    
-<a href="https://github.com/mgthndr/Mgthndr/stargazers"><img src="https://img.shields.io/github/stars/mgthndr/Mgthndr" alt="Stars Badge"/></a>
-<a href="https://github.com/mgthndr/Mgthndr/network/members"><img src="https://img.shields.io/github/forks/mgthndr/Mgthndr" alt="Forks Badge"/></a>
-</h2>
 </div>
 
 
 Descripcion
 * wowoeoeo
 * cursiva <i> dsfdfassdafdsadsadsadsa </i>
+
+
 
 dasasas
 
@@ -30,6 +27,5 @@ imagen test
 ![images](https://github.com/user-attachments/assets/1d666362-70e4-4354-8c7e-2bbfa25995fc)
 
 estadisticas
--
 
-![mgthndr's Stats](https://github-readme-stats.vercel.app/api?username=mgthndr&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgthndr&layout=compact)
