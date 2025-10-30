@@ -5,7 +5,7 @@
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/mgthndr/Mgthndr?style=flat-square">
   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/mgthndr/Mgthndr?style=flat-square">
   <img alt="GitHub com commi commit" src="https://img.shields.io/github/last-commit/mgthndr/Mgthndr?style=flat-square">
-  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mgthndr.repoName) [![GitHub followers](https://img.shields.io/github/followers/SGFuquen.svg?style=social&label=Follow)](https://github.com/Mgthndr?tab=followers)
+  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mgthndr.repoName)
 </p>
 </div>
 
