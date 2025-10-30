@@ -5,7 +5,7 @@
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/mgthndr/Mgthndr?style=flat-square">
   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/mgthndr/Mgthndr?style=flat-square">
   <img alt="GitHub com commi commit" src="https://img.shields.io/github/last-commit/mgthndr/Mgthndr?style=flat-square">
-  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mgthndr.repoName)
+  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mgthndr.repoName)
 </p>
 </div>
 
