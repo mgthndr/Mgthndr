@@ -60,13 +60,13 @@
   <h2>📂 Projects</h2>
 
   <div>
-    <h3></h3>
-    <p>Web app that performs basic math operations using HTML, CSS, and JavaScript.</p>
+    <h3>🐎 Pet Grooming Service Website</h3>
+    <p>This project is a pet grooming service website that includes a fully developed and structured online store. The system features user accounts, categorized items, a shopping cart, and a payment flow simulation. It also includes an admin side where new items can be created and managed, allowing dynamic content inside the store.</p>
   </div>
 
   <div>
-    <h3></h3>
-    <p>Static website built with HTML to practice structure, tags, and layout.</p>
+    <h3>🐝 Bee Swarm HTML</h3>
+    <p>Incremental browser game inspired by Bee Swarm Simulator. Players can equip bees in their hive, which provide stat buffs and improve resource collection. By gathering honey, players unlock better bees, increasing their overall performance. Progression also includes upgrading tools and storage to destroy more tiles and carry more pollen, creating a continuous growth and upgrade loop.</p>
   </div>
 
   <div>
@@ -77,7 +77,7 @@
 
 
 ## Github Statistics:
-   ![mgthndr's Stats](https://github-readme-stats.vercel.app/api?username=mgthndr&theme=dark&show_icons=true&hide_border=true&count_private=true) ![mgthndr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mgthndr&theme=dark&hide_border=true)
+   ![mgthndr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mgthndr&theme=dark&hide_border=true)
 
 > asdfgfsa
 
